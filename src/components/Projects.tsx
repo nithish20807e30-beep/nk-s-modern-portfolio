@@ -29,8 +29,8 @@ const projects = [
     description: 'Customer relationship management for workforce',
   },
   {
-    title: 'Acenovation Website',
-    url: 'https://acenovation.veniyas.com',
+    title: 'SG National Storytelling Championship Official Website',
+    url: 'https://sgnationalstorytellingchampionship.com/',
     tech: ['HTML', 'CSS', 'JavaScript', 'PHP', 'SQL'],
     description: 'Business website with dynamic features',
   },
